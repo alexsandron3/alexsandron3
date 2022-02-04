@@ -50,5 +50,5 @@ Tecnologias que utilizo no dia-dia
 Entre em contato comigo
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![EMAIL](https://img.shields.io/badge/-email-blue)]()
 [![WHATS APP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+[![EMAIL](https://img.shields.io/badge/-email-blue)]()
