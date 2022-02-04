@@ -49,6 +49,6 @@ Tecnologias que utilizo no dia-dia
 ### Contato
 Entre em contato comigo
 
-[LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[[LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandron3/)
 [![WHATS APP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=21999827201)
-[![EMAIL](https://img.shields.io/badge/-email-blue)]()
+[![EMAIL](https://img.shields.io/badge/-email-blue)](alexsandro060299@outlook.com)
