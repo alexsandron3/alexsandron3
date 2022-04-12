@@ -2,10 +2,11 @@
 ## 🚀 Sobre mim
 Estudante de ciências da computação e aluno da Trybe. Apaixonado por tecnologia e jogos.
 
-
+<a href="https://github.com/alexsandron3">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=alexsandron3&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/alexsandron3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandron3&layout=compact&theme=radical&include_all_commits=true&count_private=true" />
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandron3&layout=compact&theme=radical&include_all_commits=true&count_private=true" />
 </a>
 
 ## Conhecimentos
