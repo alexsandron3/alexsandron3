@@ -1,7 +1,11 @@
 
 ## 🚀 Sobre mim
-Estudante de ciências da computação e aluno da Trybe. Apaixonado por tecnologia e jogos.
+<div align="justify">
+    Meu nome é Alexsandro Xavier, tenho 23 anos e atualmente estou cursando Ciências da computação e Desenvolvimento Web Full stack. Estudo programação desde 2015 quando comecei a programar em PHP em um curso técnico pelo SENAC, mas já estou no mundo da tecnologia desde muito antes pois comecei como suporte em aparelhos de telefone e desktops.
+    Atualmente desenvolvo projetos em PHP e Javascript, tanto no Back End quanto no Front End. Apesar de amar todas as stacks de desenvolvimento, tenho muito mais apego com o Back End.
+</div>
 
+## Github Stats
 <a href="https://github.com/alexsandron3">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=alexsandron3&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandron3&layout=compact&theme=radical" />
@@ -44,7 +48,6 @@ Tecnologias que utilizo no dia-dia
 [![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
 [![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
-[![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)]()
 [![REACT-ROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)]()
 
 
