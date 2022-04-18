@@ -14,14 +14,12 @@
 ## Conhecimentos
 
 ### Linguagens de Programação
-Linguagens de programação que utilizo ou já utilizei para algum projeto.
 
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 
 
 ### Front-End
-Conhecimentos em Front-End
 
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -31,7 +29,6 @@ Conhecimentos em Front-End
 
 
 ### Back-End
-Conhecimentos em Back-End
 
 [![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
@@ -40,7 +37,6 @@ Conhecimentos em Back-End
 
 
 ### Outros
-Tecnologias que utilizo no dia-dia
 
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
@@ -52,7 +48,6 @@ Tecnologias que utilizo no dia-dia
 
 
 ### Contato
-Entre em contato comigo
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandron3/)
 [![WHATS APP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=21999827201)
