@@ -2,7 +2,7 @@
 ## 🚀 Sobre mim
 <div align="justify">
     Meu nome é Alexsandro Xavier, tenho 23 anos e atualmente estou cursando Ciências da computação e Desenvolvimento Web Full stack. Estudo programação desde 2015 quando comecei a programar em PHP em um curso técnico pelo SENAC, mas já estou no mundo da tecnologia desde muito antes pois comecei como suporte em aparelhos de telefone e desktops.
-    Atualmente desenvolvo projetos em PHP e Javascript, tanto no Back End quanto no Front End. Apesar de amar todas as stacks de desenvolvimento, tenho muito mais apego com o Back End.
+    Atualmente desenvolvo projetos em PHP e Javascript e trabalho na [Klever](https://klever.io/) como Go Backend develop. Apesar de amar todas as stacks de desenvolvimento, tenho muito mais apego com o Back End.
 </div>
 
 ## Github Stats
@@ -17,7 +17,7 @@
 
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
-
+[![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
 
 ### Front-End
 
@@ -34,6 +34,7 @@
 [![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![MONGO](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]()
+[![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
 
 
 ### Outros
