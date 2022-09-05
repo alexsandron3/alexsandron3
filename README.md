@@ -2,7 +2,7 @@
 ## 🚀 Sobre mim
 <div align="justify">
     Meu nome é Alexsandro Xavier, tenho 23 anos e atualmente estou cursando Ciências da computação e Desenvolvimento Web Full stack. Estudo programação desde 2015 quando comecei a programar em PHP em um curso técnico pelo SENAC, mas já estou no mundo da tecnologia desde muito antes pois comecei como suporte em aparelhos de telefone e desktops.
-    Atualmente desenvolvo projetos em PHP e Javascript e trabalho na <a href="https://klever.io/">Klever </a> como Go Backend develop. Apesar de amar todas as stacks de desenvolvimento, tenho muito mais apego com o Back End.
+    Atualmente desenvolvo projetos em PHP e Javascript e trabalho na <a href="https://klever.io/">Klever </a> como Go Backend developer. Apesar de amar todas as stacks de desenvolvimento, tenho muito mais apego com o Back End.
 </div>
 
 ## Github Stats
