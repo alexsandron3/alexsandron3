@@ -1,8 +1,9 @@
 
 ## 🚀 Sobre mim
 <div align="justify">
-    Meu nome é Alexsandro Xavier, tenho 23 anos e atualmente estou cursando Ciências da computação e Desenvolvimento Web Full stack. Estudo programação desde 2015 quando comecei a programar em PHP em um curso técnico pelo SENAC, mas já estou no mundo da tecnologia desde muito antes pois comecei como suporte em aparelhos de telefone e desktops.
-    Atualmente desenvolvo projetos em PHP e Javascript e trabalho na <a href="https://klever.io/">Klever </a> como Go Backend developer. Apesar de amar todas as stacks de desenvolvimento, tenho muito mais apego com o Back End.
+    Oii, eu sou o Alex. Com alguns anos de experiência no mercado de tecnologia, no período pré pandemia mudei para programação. Criei meu primeiro negócio durante a pandemia, desenvolvendo um ecossistema para empresas de turismo gerenciarem seus negócios com facilidade e agilidade.
+    Além disso, também trabalho na <a href="https://klever.io/">Klever </a> como Backend Software develop e no <a href="https://www.linkedin.com/company/mercadolibre/">Mercado livre </a> como Software Developer.
+    Essencialmente sou fullstack, mas tenho muito mais apego pelo Back.
 </div>
 
 ## Github Stats
@@ -17,6 +18,7 @@
 
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+[![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
 
 ### Front-End
@@ -35,6 +37,7 @@
 [![MONGO](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]()
 [![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
+[![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
 
 
 ### Outros
@@ -46,10 +49,11 @@
 [![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![REACT-ROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)]()
+[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 
 
 ### Contato
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandron3/)
-[![WHATS APP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=21999827201)
+[![WHATS APP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=21976469724)
 [![EMAIL](https://img.shields.io/badge/-email-blue)](mailto:alexsandro060299@outlook.com)
