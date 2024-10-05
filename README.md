@@ -2,7 +2,7 @@
 ## 🚀 Sobre mim
 <div align="justify">
     Oii, eu sou o Alex. Com alguns anos de experiência no mercado de tecnologia, no período pré pandemia mudei para programação. Criei meu primeiro negócio durante a pandemia, desenvolvendo um ecossistema para empresas de turismo gerenciarem seus negócios com facilidade e agilidade.
-    Além disso, também trabalho no <a href="https://www.linkedin.com/company/mercadolibre/">Mercado livre </a> como Software Developer.
+    Além disso, também trabalho no <a href="https://www.linkedin.com/company/itau">Itaú </a> como Anal. Enge. Software.
     Essencialmente sou fullstack, mas tenho muito mais apego pelo Back.
 </div>
 
